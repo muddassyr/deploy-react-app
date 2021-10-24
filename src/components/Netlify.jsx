@@ -51,13 +51,6 @@ const Netlify = () => {
                 <blockquote>
                     <pre>Link this directory to an existing site{"\n"}{"  "}Create configure a new site</pre>
                 </blockquote>
-                <p>Then you’ll be asked for the <code>Team</code>. Unless you’re already using Netlify
-                    in your
-                    local machine, chances are you will see only one option with your name, select it.</p>
-                <pre>? Team:</pre>
-                <blockquote>
-                    <pre>ASHUTOSH KUMAR SINGH's team</pre>
-                </blockquote>
                 <p>The next prompt is <code>Site name</code>. This is an optional field, as you can see below. If
                     you
                     already have a name in mind, type that and hit enter. If you leave this blank, Netlify will give
